@@ -23,7 +23,6 @@ Data view
 
 Accelerometer exam
 -------------
-![Screenshot](accelerometer_exam_ripple.png)
 
 Touch exam
 -------------
