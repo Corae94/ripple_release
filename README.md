@@ -28,3 +28,7 @@ Accelerometer exam
 Touch exam
 -------------
 ![Screenshot](./touch_exam_ripple.png)
+
+## Credits
+ the homepage icons for the exams are
+ imported free versions of fontawesome icons
