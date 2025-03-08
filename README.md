@@ -1,4 +1,6 @@
 # ripple_release
+![Screenshot](./ripple_version.png)
+
 public repo for the release of the ripple apk for android
 Homepage                             |Navigator menu for results           |Result list
 ------------------------------------:|------------------------------------:|-------------
