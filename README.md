@@ -2,7 +2,7 @@
 public repo for the release of the ripple apk for android
 Homepage                             |Navigator menu for results           |Result list
 ------------------------------------:|------------------------------------:|-------------
-![Screenshot](./homepage_ripple.png) |![Screenshot](./navigator_ripple.png)|![Screenshot](./accelerometer_results_list_ripple.png)
+![Screenshot](./menu_ripple.png) |![Screenshot](./navigator_ripple.png)|![Screenshot](./results_list_ripple.png)
 
 Data view                            |Accelerometer exam                            |Touch exam
 ------------------------------------:|---------------------------------------------:|-------------
